@@ -56,7 +56,7 @@
     <li>
       <a
         class="block py-2 hover:text-base-content aria-[current=true]:text-base-content"
-        href="/">Home</a
+        href="/">Test</a
       >
     </li>
   </ul>
